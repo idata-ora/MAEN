@@ -4,7 +4,7 @@
 ## Updates
 + TODO: Add code ✔
 
-![Score](./assets/Figure_1_.pdf)
+![Score](./assets/Figure_1.pdf)
 
 
 ## Quick Start
