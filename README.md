@@ -4,14 +4,9 @@
 ## Updates
 + TODO: Add code ✔
 
-![Score](./assets/Figure_1_.tif)
+![Score](./assets/Figure_1_.pdf)
 
 
 ## Quick Start
 ```python
 python train_tcga.py
-
-
-
-
-
