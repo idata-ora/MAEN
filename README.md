@@ -4,7 +4,7 @@
 ## Updates
 + TODO: Add code ✔
 
-![Score](./assets/Figure_1.tif)
+![Score](./assets/Figure_1.png)
 
 
 ## Quick Start
